@@ -1,0 +1,14 @@
+.login-div {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.login-div .login-content {
+  width: 400px;
+}
+.login-div .login-content .ant-card-head-title {
+  text-align: center;
+  font-size: 20px;
+}
